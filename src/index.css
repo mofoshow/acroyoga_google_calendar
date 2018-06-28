@@ -1,0 +1,15 @@
+.infoArea{
+    width: 100%;
+    padding: 20px 0 20px 0;
+    text-align: center;
+    background-color: #f3f5ff;
+}
+
+img{
+    width: 100%;
+}
+
+h1, h2{
+    color: #5f1c0e;
+    font-weight: bold;  
+}
