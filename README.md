@@ -1,4 +1,4 @@
-# acroyoga_google_calendar
+# Google Calendar React
 
-This was a small webpage I made to show that I can fetch data from an Api and display the data using react components. 
-I used Google's Calendar Api.
+This was a small webpage made to be an example of fetching data from an Api and display the data using react components. 
+Google's Calendar Api was used to connect a public calendar to this webpage.
